@@ -1,4 +1,4 @@
-![youtube-clone-migrateshop](https://github.com/migrateshop/alcohol-delivery-script/assets/77200601/c1ddceb7-17b2-4423-837a-5fe9b9c2af32)
+![alcohol-clone-migrateshop](https://github.com/migrateshop/alcohol-delivery-script/assets/77200601/3792cd58-798b-46e6-8238-b81ea4662d76)
 
 
 <h1 align="center"> Alcohol Delivery Script - Launch Your On-demand Alcohol Delivery Business! </h1>
@@ -12,6 +12,8 @@ These cutting-edge technological solutions streamline the entire process, enabli
 An [alcohol delivery script](https://migrateshop.com/alcohol-delivery-script/) is a pre-built software platform designed to streamline the launch and operations of an on-demand alcohol delivery business. It serves as a comprehensive solution, encompassing all the essential features required to facilitate a seamless alcohol ordering and delivery experience. 
 
 From user-friendly interfaces for customers to place orders and track deliveries, to integrated payment gateways for secure transactions, inventory management tools, and delivery logistics capabilities, an alcohol delivery script consolidates the core functionalities into a unified system.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“alcoholdelivery.png" src="https://github.com/migrateshop/alcohol-delivery-script/blob/main/images/alcohol-delivery-script.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 ## Why Utilize an Alcohol Delivery Script?
 For prospective entrepreneurs seeking to go into the alcohol delivery industry, there are several of benefits to using an [alcohol delivery script](https://migrateshop.com/alcohol-delivery-script/). Among the main advantages are:
@@ -32,6 +34,7 @@ For prospective entrepreneurs seeking to go into the alcohol delivery industry, 
 
 All things considered, using an alcohol delivery script can help entrepreneurs focus on expanding their clientele and boosting sales by streamlining the process of starting and running an on-demand alcohol delivery company.
 
+
 ### How to Launch Your On-demand Alcohol Delivery Business
 To launch your on-demand alcohol delivery business using an alcohol delivery script, follow these simple steps, 
 
@@ -48,6 +51,8 @@ To launch your on-demand alcohol delivery business using an alcohol delivery scr
 * **Customer service:** To earn people's trust and loyalty, deliver exceptional customer service. Make sure the people handling deliveries for you are educated to handle alcohol sensibly.
 
 * **Feedback and Improvement:** Get client feedback so you can keep improving your service. This can entail extending your product line or expediting deliveries. Those steps are includes in [alcohol delivery app development](https://migrateshop.com/alcohol-delivery-script/).
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“alcoholdelivery.png" src="https://github.com/migrateshop/alcohol-delivery-script/blob/main/images/alcohol-delivery.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 ### Conclusion
 
